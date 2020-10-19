@@ -18,4 +18,8 @@ gpg -o $SHA.asc -a -sb $SHA
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
+git add .
+git commit -m "OS202 taufikalgi"
+git push origin master
+
 exit 0
