@@ -8,6 +8,9 @@ ZCZC W01 raihanarmon
 ZCZC W02 wienaamanda
 ZCZC W02 saridss
 ZCZC W02 setoaprasetyo
-ZCZC w03 vianra
-ZCZC w03 stevenciayadi
-ZCZC w03 yolandawsirait
+ZCZC W03 vianra
+ZCZC W03 stevenciayadi
+ZCZC W03 yolandawsirait
+ZCZC W04 siepenmaru
+ZCZC W04 setoaprasetyo
+ZCZC W04 wienaamanda
