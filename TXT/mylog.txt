@@ -25,7 +25,7 @@ ZCZC W02   2 L13 Assignment #3
 ZCZC W02   2 L14 Assignment #4
 ZCZC W02  30 L15 Assignment #5
 ZCZC W02   5 L16 Assignment #6
-ZCZC W02   5 L19 Assignemnt #9
+ZCZC W02   5 L19 Assignment #9
 ZCZC W02  20 L22 Youtube: study
 ZCZC W03  15 L00 General Log
 ZCZC W03 100 L02 ZOOM
@@ -56,3 +56,14 @@ ZCZC W04   5 L16 Assignment #6
 ZCZC W04  15 L17 Assignment #7
 ZCZC W04   2 L18 Assignment #8
 ZCZC W04   2 L19 Assignment #9
+ZCZC W05  15 L00 General Log
+ZCZC W05 100 L02 ZOOM
+ZCZC W05  90 L05 GSGS related
+ZCZC W05  30 L06 Reading OSC10
+ZCZC W05  30 L11 Assignment #1
+ZCZC W05  10 L13 Assignment #3
+ZCZC W05  60 L14 Assignment #4
+ZCZC W05   2 L15 Assignment #5
+ZCZC W05   5 L16 Assignment #6
+ZCZC W05  15 L17 Assignment #7
+ZCZC W05   2 L19 Assignment #9
