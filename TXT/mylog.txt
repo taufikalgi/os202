@@ -67,3 +67,14 @@ ZCZC W05   2 L15 Assignment #5
 ZCZC W05   5 L16 Assignment #6
 ZCZC W05  15 L17 Assignment #7
 ZCZC W05   2 L19 Assignment #9
+ZCZC W06  15 L00 General Log
+ZCZC W06  95 L05 GSGS related
+ZCZC W06  35 L06 Reading OSC10
+ZCZC W06  35 L11 Assignment #1
+ZCZC W06  10 L13 Assignment #3
+ZCZC W06  60 L14 Assignment #4
+ZCZC W06   2 L15 Assignment #5
+ZCZC W06   5 L16 Assignment #6
+ZCZC W06  15 L17 Assignment #7
+ZCZC W06   2 L19 Assignment #9
+ZCZC W06   5 L20 Assignment #10 dan #11
