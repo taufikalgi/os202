@@ -91,3 +91,15 @@ ZCZC W07   5 L16 Assignment #6
 ZCZC W07   2 L17 Assignment #7
 ZCZC W07  15 L11 Assignment #8
 ZCZC W07   5 L20 Assignment #10, #11, dan #12
+ZCZC W08  15 L00 General Log
+ZCZC W08 100 L02 ZOOM
+ZCZC W08  95 L05 GSGS related
+ZCZC W08  30 L06 Reading OSC10
+ZCZC W08   5 L11 Assignment #1
+ZCZC W08  30 L11 Assignment #2
+ZCZC W08   5 L13 Assignment #3
+ZCZC W08  10 L14 Assignment #4
+ZCZC W08  80 L15 Assignment #5
+ZCZC W08   5 L16 Assignment #6
+ZCZC W08  15 L17 Assignment #7
+ZCZC W08   5 L11 Assignment #9
